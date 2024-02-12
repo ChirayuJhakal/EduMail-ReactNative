@@ -1,0 +1,67 @@
+[
+  {
+    "id": "11",
+    "subject": "Team Gathering",
+    "sender": "jane.smith@example.com",
+    "date": "2024-03-15T10:30:00Z",
+    "header": "Dear Teammates,",
+    "content": "Let's have a casual team gathering this Friday. It's a great opportunity to unwind and connect with each other. Looking forward to seeing you there!"
+  },
+  {
+    "id": "12",
+    "subject": "Project Kickoff",
+    "sender": "robert.davis@example.com",
+    "date": "2024-03-20T09:00:00Z",
+    "header": "Hello Team,",
+    "content": "Exciting news! We're kicking off a new project. Join us for a kickoff meeting on Monday to discuss project goals and timelines."
+  },
+  {
+    "id": "13",
+    "subject": "Company Updates",
+    "sender": "updates@example.com",
+    "date": "2024-03-25T14:45:00Z",
+    "header": "Dear Employees,",
+    "content": "Stay informed with the latest company updates. Check your emails regularly for important announcements and news. Your engagement is crucial!"
+  },
+  {
+    "id": "14",
+    "subject": "Monthly Review",
+    "sender": "management@example.com",
+    "date": "2024-03-30T11:30:00Z",
+    "header": "Hello Team,",
+    "content": "It's time for our monthly project review. Prepare your feedback and suggestions for our upcoming meeting. Your insights help us improve!"
+  },
+  {
+    "id": "15",
+    "subject": "Employee Recognition",
+    "sender": "appreciation@example.com",
+    "date": "2024-04-05T15:15:00Z",
+    "header": "Dear Team,",
+    "content": "Recognizing outstanding contributions! Nominate your colleagues for Employee of the Month. Let's celebrate success and hard work together."
+  },
+  {
+    "id": "16",
+    "subject": "Upcoming Training",
+    "sender": "trainingdept@example.com",
+    "date": "2024-04-10T10:00:00Z",
+    "header": "Hello Trainees,",
+    "content": "Our next training session is around the corner. Prepare your questions and be ready to enhance your skills. Looking forward to your active participation!"
+  },
+  {
+    "id": "17",
+    "subject": "Customer Survey",
+    "sender": "customersurvey@example.com",
+    "date": "2024-04-15T16:30:00Z",
+    "header": "Dear Customers,",
+    "content": "Your feedback matters! Participate in our customer survey and share your thoughts on our products and services. We value your opinion!"
+  }
+  ,
+  {
+    "id": "18",
+    "subject": "Customer Survey",
+    "sender": "customersurvey@example.com",
+    "date": "2024-04-15T16:30:00Z",
+    "header": "Dear Customers,",
+    "content": "Your feedback matters! Participate in our customer survey and share your thoughts on our products and services. We value your opinion!"
+  }
+]
